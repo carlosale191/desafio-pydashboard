@@ -17,7 +17,7 @@
 - Após isso, instalar as bibliotecas necessárias com o comando:
   `pip install streamlit pandas plotly.express`
 - Para rodar o dashboard no navegador:
-- `streamlit run index.py`
+  `streamlit run index.py`
 
 ## Demonstrativo do Dashboard
 
